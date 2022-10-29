@@ -107,3 +107,8 @@ Entrada Saída<br>
 5 1140<br>
 __________________________________________________________<br>
 </p>
+
+<h1>Exercicios extras:</h1>
+<br><br>
+<h2>Tamanho String</h2><br>
+<p>Tamanho de strings. Faça um programa que leia 2 strings e informe o conteúdo delas seguido do seu comprimento. Informe também se as duas strings possuem o mesmo comprimento e são iguais ou diferentes no conteúdo.</p><br>
